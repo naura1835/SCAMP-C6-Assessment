@@ -1,0 +1,49 @@
+@use "./breakpoints" as *;
+
+h1 {
+  font-size: 2.125rem; //48px 60px
+
+  @include breakpoint-up(tablet-portrait-up) {
+    font-size: 3rem;
+  }
+
+  @include breakpoint-up(desktop-up) {
+    font-size: 3.75rem;
+  }
+}
+
+h2 {
+  font-size: 1.5rem; //38px  40px
+
+  @include breakpoint-up(tablet-portrait-up) {
+    font-size: 2.375rem;
+  }
+  @include breakpoint-up(tablet-portrait-up) {
+    font-size: 2.5rem;
+  }
+}
+
+h3 {
+  font-size: 20px; //24px
+
+  @include breakpoint-up(tablet-portrait-up) {
+    font-size: 24px;
+  }
+}
+
+p {
+  font-size: 16px;
+  line-height: 30px;
+
+  @include breakpoint-up(tablet-portrait-up) {
+    font-size: 18px;
+  }
+}
+
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: var(--link-color);
+  cursor: pointer;
+}

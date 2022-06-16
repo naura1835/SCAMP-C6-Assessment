@@ -1,0 +1,10 @@
+@use "../../globals/breakpoints" as *;
+.product {
+  display: grid;
+  grid-template-columns: 1fr;
+
+  @include breakpoint-up(tablet-landscape-up) {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 840px;
+  }
+}
