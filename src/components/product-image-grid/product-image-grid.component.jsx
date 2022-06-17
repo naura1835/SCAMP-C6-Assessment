@@ -8,7 +8,7 @@ import "./product-image-grid.styles.scss";
 class ProductImageGrid extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { images: this.props.images, currentIndex: 0 };
+    this.state = { currentIndex: 0 };
   }
 
   handleNext = () => {
@@ -37,7 +37,8 @@ class ProductImageGrid extends React.Component {
   };
 
   render() {
-    const { images, currentIndex } = this.state;
+    const { currentIndex } = this.state;
+    const images = this.props.images;
 
     return (
       <div className="image-grid">

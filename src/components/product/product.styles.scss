@@ -2,9 +2,12 @@
 .product {
   display: grid;
   grid-template-columns: 1fr;
+  place-items: center;
 
   @include breakpoint-up(tablet-landscape-up) {
     grid-template-columns: repeat(2, 1fr);
     max-width: 840px;
+    margin: auto;
+    transform: translateY(10%);
   }
 }

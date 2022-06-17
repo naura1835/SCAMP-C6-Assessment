@@ -1,5 +1,11 @@
+@use "../globals/breakpoints" as *;
+
 .container {
-  max-width: 880px;
+  max-width: 500px;
   width: 100%;
   margin-inline: auto;
+
+  @include breakpoint-up(tablet-landscape-up) {
+    max-width: 880px;
+  }
 }

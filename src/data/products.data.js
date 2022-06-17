@@ -1,8 +1,10 @@
 export const product = {
   name: "Fall limited edition sneakers",
-  description: "",
-  price: "",
-  sale: null,
+  description:
+    "my name is berry allen and i'm the fastest man alive. When i was a child i saw my father killed by something impossible then an accident made me",
+  price: 250,
+  sale: 0.5,
+  inventory: 15,
   images: [
     {
       imageURL:
