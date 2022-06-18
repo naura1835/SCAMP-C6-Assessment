@@ -6,7 +6,7 @@ A product page built with React class component that allows a user to view detai
 
 ### Links
 
-- Live website: [Sneaker company]()
+- Live website: [Sneaker company](https://naura1835.github.io/SCAMP-C6-Assessment/)
 - Solution Repo: [Github repo](https://github.com/naura1835/SCAMP-C6-Assessment)
 
 ### Tech Stack
