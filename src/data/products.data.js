@@ -1,7 +1,7 @@
 export const product = {
   name: "Fall limited edition sneakers",
   description:
-    "my name is berry allen and i'm the fastest man alive. When i was a child i saw my father killed by something impossible then an accident made me",
+    "These low profile sneakers are your perfect casual wears companion. Featuring a durable rubber outer sole, they'll withstand everything the weather can offer.",
   price: 250,
   sale: 0.5,
   inventory: 15,
