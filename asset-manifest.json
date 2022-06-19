@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SCAMP-C6-Assessment/static/css/main.4b62646f.css",
-    "main.js": "/SCAMP-C6-Assessment/static/js/main.dcc3adbe.js",
+    "main.css": "/SCAMP-C6-Assessment/static/css/main.ff823d80.css",
+    "main.js": "/SCAMP-C6-Assessment/static/js/main.0bf0f92c.js",
     "static/js/787.32d3dd07.chunk.js": "/SCAMP-C6-Assessment/static/js/787.32d3dd07.chunk.js",
     "index.html": "/SCAMP-C6-Assessment/index.html",
     "static/media/icon-cart.svg": "/SCAMP-C6-Assessment/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
@@ -9,12 +9,12 @@
     "static/media/icon-minus.svg": "/SCAMP-C6-Assessment/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
     "static/media/icon-previous.svg": "/SCAMP-C6-Assessment/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
     "static/media/icon-next.svg": "/SCAMP-C6-Assessment/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
-    "main.4b62646f.css.map": "/SCAMP-C6-Assessment/static/css/main.4b62646f.css.map",
-    "main.dcc3adbe.js.map": "/SCAMP-C6-Assessment/static/js/main.dcc3adbe.js.map",
+    "main.ff823d80.css.map": "/SCAMP-C6-Assessment/static/css/main.ff823d80.css.map",
+    "main.0bf0f92c.js.map": "/SCAMP-C6-Assessment/static/js/main.0bf0f92c.js.map",
     "787.32d3dd07.chunk.js.map": "/SCAMP-C6-Assessment/static/js/787.32d3dd07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b62646f.css",
-    "static/js/main.dcc3adbe.js"
+    "static/css/main.ff823d80.css",
+    "static/js/main.0bf0f92c.js"
   ]
 }
